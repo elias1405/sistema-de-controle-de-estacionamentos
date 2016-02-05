@@ -1,0 +1,1 @@
+Este documento apresenta os requisitos de um sistema para a criação e de um software que gerencie vagas de estacionamentos. Um guia para que os desenvolvedores tenham toda informação necessária.
